@@ -1,0 +1,11 @@
+# Moniepoint Analytics API - Prerequisites
+
+# This is a Java-based project (Spring Boot).
+# The following are required to build and run the application:
+
+Java == 17
+Maven >= 3.8
+PostgreSQL >= 14
+
+# To run the app:
+# mvn spring-boot:run
