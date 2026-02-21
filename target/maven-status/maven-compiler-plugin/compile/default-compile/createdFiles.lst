@@ -1,8 +1,2 @@
 com\moniepoint\analytics\model\Activity.class
 com\moniepoint\analytics\repository\ActivityRepository.class
-com\moniepoint\analytics\AnalyticsApiApplication.class
-com\moniepoint\analytics\model\Activity$ActivityBuilder.class
-com\moniepoint\analytics\service\AnalyticsService.class
-com\moniepoint\analytics\service\IngestionService.class
-com\moniepoint\analytics\controller\AnalyticsController.class
-com\moniepoint\analytics\service\ActivityImporter.class
